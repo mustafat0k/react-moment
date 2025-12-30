@@ -1,8 +1,8 @@
 {
-  "name": "react-moment",
+  "name": "@mustafat0k/react-momentum",
   "description": "React component for the moment date library.",
   "version": "1.1.4",
-  "author": {
+    "author": {
     "name": "Sean Hickey",
     "web": "https://headzoo.io"
   },
@@ -64,11 +64,11 @@
   "peerDependencies": {
     "moment": "^2.29.0",
     "prop-types": "^15.7.0",
-    "react": "^16.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
+    "react": "^18.0.0 || ^19.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/headzoo/react-moment.git"
+    "url": "git+https://github.com/mustafat0k/react-moment.git"
   },
   "scripts": {
     "build": "npm run clean && webpack -p",
